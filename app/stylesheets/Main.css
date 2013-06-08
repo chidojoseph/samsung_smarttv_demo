@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+/* Layout */
+body {
+    background-color: white;
+    -webkit-user-select: none;
+}
